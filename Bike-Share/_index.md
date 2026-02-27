@@ -8,7 +8,8 @@ Apart from interesting real-world applications of bike sharing systems, the char
 
 ### Attribute Information
 
-Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv,
+Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
+
     - instant: record index,
     - dteday : date,
     - season : season (1:springer, 2:summer, 3:fall, 4:winter),
